@@ -1,13 +1,3 @@
-### [Aplikasi Perekaman Toko Buku](http://bookstore-adesug.herokuapp.com/) klik
-### [Diagram dan penjelasan](https://drive.google.com/file/d/1jtJMrXx9xTYMqcIsJrVyloHDX4OunVfd/view?usp=sharing) klik
-#### By
-
-#### Tools
-- Laravel       : Framework PHP
-- Bootstrap     : Framework CSS
-- PostgreSQL    : Database
-- Heroku        : Deployment
-
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
